@@ -1,0 +1,17 @@
+{
+  "name": "gltfexporter",
+  "version": "1.0.0",
+  "description": "Create GTLF files from OBJ files in a specified directory.",
+  "main": "gltfExporter.js",
+  "scripts": {
+    "test": "echo \"Test: Dostum sıkıntı yok :D\" "
+  },
+  "author": "Ömer Faruk YILDIRIM",
+  "license": "ISC",
+  "bin": {
+    "makeGltf": "./gltfExporter.js"
+  },
+  "dependencies": {
+    "obj2gltf": "^3.1.0"
+  }
+}
