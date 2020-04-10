@@ -11,5 +11,5 @@ user@local$: makeGltf <.path/to/OBJFiles.> --metallicRoughness true|false
 ```
 ## Option
 ```bash
-metallicRoughness Boolean true|false
+metallicRoughness (Boolean) true|false
 ```
