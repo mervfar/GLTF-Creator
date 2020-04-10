@@ -5,7 +5,7 @@ var options = {};
 var folders = new Array();
 
 if (process.argv.length <= 2) {
-    console.log("Usage:\n\n \t user@local$: compressThisGltf <.path/to/OBJFiles.> --metallicRoughness true|false\n\nOption: metallicRoughness Boolean true|false \nNote:It will automatically create a folder /gltfFiles for output files.\n");
+    console.log("Usage:\n\n \t user@local$: makeGltf <.path/to/OBJFiles.> --metallicRoughness true|false\n\nOption: metallicRoughness Boolean true|false \nNote:It will automatically create a folder /gltfFiles for output files.\n");
     process.exit(-1);
 }
 var roughnessOption = process.argv.indexOf("--metallicRoughness");
