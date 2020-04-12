@@ -2,7 +2,7 @@
 Create GTLF files from OBJ files in a specified directory.
 ## Install
 ```bash
-npm i gltfexporter -g
+npm i gltfexporter@latest -g
 ```
 
 ## Usage
