@@ -1,6 +1,6 @@
 {
   "name": "gltfexporter",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "description": "Create GTLF files from OBJ files in a specified directory.",
   "main": "gltfExporter.js",
   "scripts": {
